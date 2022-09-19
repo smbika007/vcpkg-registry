@@ -1,3 +1,5 @@
 {
-"default": {}
+  "default": {
+    "libsphinx5prealpha": { "baseline": "1.0.0", "port-version": 0 }
+  }
 }
